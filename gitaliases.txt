@@ -5,4 +5,5 @@
 	cm = "commit -m"
 	co = checkout
 	sl = "stash list"
+	ss = "stash save"
 	sta = status
